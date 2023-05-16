@@ -2,14 +2,14 @@
 
 
 
-  "item.csa_mod.titanium_alloy": "Titanium Alloy",
-
-  "item.csa_mod.titanium_ore": "Titanium Ore",
 
 
 
 
-  "block.csa_mod.titanium_alloy_block": "Titanium Alloy Block",
+
+
+
+
 
 
 
@@ -22,7 +22,7 @@
   "item.csa_mod.steel_axe": "Steel Axe",
   "item.csa_mod.steel_shovel": "Steel Shovel",
 
-
+  
   "block.csa_mod.titanium_ore": "Titanium Ore",
   "item.csa_mod.titanium": "Titanium",
   "block.csa_mod.titanium_block": "Titanium Block",
@@ -32,6 +32,8 @@
   "item.csa_mod.titanium_shovel": "Titanium Shovel",
 
 
+  "item.csa_mod.titanium_alloy": "Titanium Alloy",
+  "block.csa_mod.titanium_alloy_block": "Titanium Alloy Block",
   "item.csa_mod.titanium_alloy_sword": "Titanium Alloy Sword",
   "item.csa_mod.titanium_alloy_pickaxe": "Titanium Alloy Pickaxe",
   "item.csa_mod.titanium_alloy_axe": "Titanium Alloy Axe",

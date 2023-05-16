@@ -1,6 +1,7 @@
 package net.Satified.csa_mod.item;
 
 import net.Satified.csa_mod.CSA_Mod;
+import net.minecraft.world.entity.EquipmentSlot;
 import net.minecraft.world.item.*;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
@@ -58,6 +59,43 @@ public class ModItems {
     public static final RegistryObject<Item> TITANIUM_ALLOY_SHOVEL = ITEMS.register("titanium_alloy_shovel",
             ()-> new ShovelItem(ModTiers.TITANIUM_ALLOY, 5,3,
                     new Item.Properties().tab(ModCreativeModeTab.CSA_TAB)));
+    public static final RegistryObject<Item> STEEL_HELMET = ITEMS.register("steel_helmet",
+            ()-> new ArmorItem(ModArmorMaterials.STEEL, EquipmentSlot.HEAD,
+                    new Item.Properties().tab(ModCreativeModeTab.CSA_TAB)));
+    public static final RegistryObject<Item> TITANIUM_HELMET = ITEMS.register("titanium_helmet",
+            ()-> new ArmorItem(ModArmorMaterials.Titanium, EquipmentSlot.HEAD,
+                    new Item.Properties().tab(ModCreativeModeTab.CSA_TAB)));
+    public static final RegistryObject<Item> TITANIUM_ALLOY_HELMET = ITEMS.register("titanium_alloy_helmet",
+            ()-> new ArmorItem(ModArmorMaterials.TITANIUM_ALLOY, EquipmentSlot.HEAD,
+                    new Item.Properties().tab(ModCreativeModeTab.CSA_TAB)));
+    public static final RegistryObject<Item> STEEL_CHEST = ITEMS.register("steel_chest",
+            ()-> new ArmorItem(ModArmorMaterials.STEEL, EquipmentSlot.CHEST,
+                    new Item.Properties().tab(ModCreativeModeTab.CSA_TAB)));
+    public static final RegistryObject<Item> TITANIUM_CHEST = ITEMS.register("titanium_chest",
+            ()-> new ArmorItem(ModArmorMaterials.Titanium, EquipmentSlot.CHEST,
+                    new Item.Properties().tab(ModCreativeModeTab.CSA_TAB)));
+    public static final RegistryObject<Item> TITANIUM_ALLOY_CHEST = ITEMS.register("titanium_alloy_chest",
+            ()-> new ArmorItem(ModArmorMaterials.TITANIUM_ALLOY, EquipmentSlot.CHEST,
+                    new Item.Properties().tab(ModCreativeModeTab.CSA_TAB)));
+    public static final RegistryObject<Item> STEEL_LEGGINGS = ITEMS.register("steel_leggings",
+            ()-> new ArmorItem(ModArmorMaterials.STEEL, EquipmentSlot.LEGS
+                    , new Item.Properties().tab(ModCreativeModeTab.CSA_TAB)));
+    public static final RegistryObject<Item> TITANIUM_LEGGINGS = ITEMS.register("titanium_leggings",
+            ()-> new ArmorItem(ModArmorMaterials.Titanium, EquipmentSlot.LEGS,
+                    new Item.Properties().tab(ModCreativeModeTab.CSA_TAB)));
+
+    public static final RegistryObject<Item> TITANIUM_ALLOY_LEGGINGS = ITEMS.register("titanium_alloy_leggings",
+            ()-> new ArmorItem(ModArmorMaterials.TITANIUM_ALLOY, EquipmentSlot.LEGS,
+                    new Item.Properties().tab(ModCreativeModeTab.CSA_TAB)));
+
+    public static final RegistryObject<Item> STEEL_BOOTS = ITEMS.register("steel_boots",
+            ()-> new ArmorItem(ModArmorMaterials.STEEL, EquipmentSlot.FEET,
+                    new Item.Properties().tab(ModCreativeModeTab.CSA_TAB)));
+    public static final RegistryObject<Item> TITANIUM_BOOTS = ITEMS.register("titanium_boots",
+            ()-> new ArmorItem(ModArmorMaterials.Titanium, EquipmentSlot.FEET,
+                    new Item.Properties().tab(ModCreativeModeTab.CSA_TAB)));
+
+    
 
 
     public static void register(IEventBus eventBus){
