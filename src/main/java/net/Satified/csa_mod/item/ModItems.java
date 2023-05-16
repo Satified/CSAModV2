@@ -34,9 +34,6 @@ public class ModItems {
     public static final RegistryObject<Item> STEEL_SHOVEL = ITEMS.register("steel_shovel",
             ()-> new ShovelItem(ModTiers.STEEL, 5,3,
                     new Item.Properties().tab(ModCreativeModeTab.CSA_TAB)));
-    public static final RegistryObject<Item> STEEL_HOE = ITEMS.register("steel_hoe",
-            ()-> new HoeItem(ModTiers.STEEL, 5,3,
-                    new Item.Properties().tab(ModCreativeModeTab.CSA_TAB)));
     public static final RegistryObject<Item> TITANIUM_SWORD = ITEMS.register("titanium_sword",
             ()-> new SwordItem(ModTiers.TITANIUM, 5,3,
                     new Item.Properties().tab(ModCreativeModeTab.CSA_TAB)));
