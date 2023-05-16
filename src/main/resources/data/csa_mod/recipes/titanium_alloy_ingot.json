@@ -1,19 +1,20 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "TST",
-    "STS",
-    "TST"
+    "#B#",
+    "B#B",
+    "#B#"
   ],
   "key": {
-    "S": {
-      "item": "csa_mod:steel"
+    "#": {
+      "item": "csa_mod:titanium"
     },
-    "T": {
-      "tag": "csa_mod:titanium"
+    "B": {
+      "item": "csa_mod:steel"
     }
   },
   "result": {
     "item": "csa_mod:titanium_alloy"
+
   }
 }

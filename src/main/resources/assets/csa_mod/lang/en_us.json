@@ -1,13 +1,39 @@
 {
-  "item.csa_mod.steel": "Steel",
-  "item.csa_mod.titanium": "Titanium",
+
+
+
   "item.csa_mod.titanium_alloy": "Titanium Alloy",
-  "item.csa_mod.steel_blend": "Steel Blend",
+
   "item.csa_mod.titanium_ore": "Titanium Ore",
 
 
-  "block.csa_mod.steel_block": "Steel Block",
-  "block.csa_mod.titanium_block": "Titanium Block",
+
+
   "block.csa_mod.titanium_alloy_block": "Titanium Alloy Block",
-  "block.csa_mod.titanium_ore": "Titanium Ore"
+
+
+
+
+  "item.csa_mod.steel_blend": "Steel Blend",
+  "item.csa_mod.steel": "Steel",
+  "block.csa_mod.steel_block": "Steel Block",
+  "item.csa_mod.steel_sword": "Steel Sword",
+  "item.csa_mod.steel_pickaxe": "Steel Pickaxe",
+  "item.csa_mod.steel_axe": "Steel Axe",
+  "item.csa_mod.steel_shovel": "Steel Shovel",
+
+
+  "block.csa_mod.titanium_ore": "Titanium Ore",
+  "item.csa_mod.titanium": "Titanium",
+  "block.csa_mod.titanium_block": "Titanium Block",
+  "item.csa_mod.titanium_sword": "Titanium Sword",
+  "item.csa_mod.titanium_pickaxe": "Titanium Pickaxe",
+  "item.csa_mod.titanium_axe": "Titanium Axe",
+  "item.csa_mod.titanium_shovel": "Titanium Shovel",
+
+
+  "item.csa_mod.titanium_alloy_sword": "Titanium Alloy Sword",
+  "item.csa_mod.titanium_alloy_pickaxe": "Titanium Alloy Pickaxe",
+  "item.csa_mod.titanium_alloy_axe": "Titanium Alloy Axe",
+  "item.csa_mod.titanium_alloy_shovel": "Titanium Alloy Shovel"
 }
