@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cooking": 200,
+  "experience": 1.5,
+  "group": "steel",
+  "ingredient":{
+    "item": "csa_mod:steel_blend"
+  },
+  "result": "csa_mod:steel"
+  }

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "csa_mod:steel"
+    }
+  },
+  "result": {
+    "item": "csa_mod:steel_block"
+  }
+}

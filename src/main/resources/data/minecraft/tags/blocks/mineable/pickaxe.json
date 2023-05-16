@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "csa_mod:steel_block",
+    "csa_mod:titanium_block",
+    "csa_mod:titanium_alloy_block",
+    "csa_mod:titanium_ore"
+
+  ]
+}

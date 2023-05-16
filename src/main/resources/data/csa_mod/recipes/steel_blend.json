@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C##",
+    "CI#",
+    "###"
+  ],
+  "key": {
+    "C": {
+      "item": "csa_mod:coal"
+    },
+    "I": {
+      "tag": "csa_mod:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "csa_mod:steel_blend"
+  }
+}

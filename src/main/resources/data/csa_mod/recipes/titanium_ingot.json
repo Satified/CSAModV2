@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cooking": 200,
+  "experience": 1.5,
+  "group": "titanium",
+  "ingredient":{
+    "item": "csa_mod:titanium_ore"
+  },
+  "result": "csa_mod:titanium"
+  }
