@@ -68,13 +68,13 @@ public class ModItems {
     public static final RegistryObject<Item> TITANIUM_ALLOY_HELMET = ITEMS.register("titanium_alloy_helmet",
             ()-> new ArmorItem(ModArmorMaterials.TITANIUM_ALLOY, EquipmentSlot.HEAD,
                     new Item.Properties().tab(ModCreativeModeTab.CSA_TAB)));
-    public static final RegistryObject<Item> STEEL_CHEST = ITEMS.register("steel_chest",
+    public static final RegistryObject<Item> STEEL_CHESTPLATE = ITEMS.register("steel_chestplate",
             ()-> new ArmorItem(ModArmorMaterials.STEEL, EquipmentSlot.CHEST,
                     new Item.Properties().tab(ModCreativeModeTab.CSA_TAB)));
-    public static final RegistryObject<Item> TITANIUM_CHEST = ITEMS.register("titanium_chest",
+    public static final RegistryObject<Item> TITANIUM_CHESTPLATE = ITEMS.register("titanium_chestplate",
             ()-> new ArmorItem(ModArmorMaterials.Titanium, EquipmentSlot.CHEST,
                     new Item.Properties().tab(ModCreativeModeTab.CSA_TAB)));
-    public static final RegistryObject<Item> TITANIUM_ALLOY_CHEST = ITEMS.register("titanium_alloy_chest",
+    public static final RegistryObject<Item> TITANIUM_ALLOY_CHESTPLATE = ITEMS.register("titanium_alloy_chestplate",
             ()-> new ArmorItem(ModArmorMaterials.TITANIUM_ALLOY, EquipmentSlot.CHEST,
                     new Item.Properties().tab(ModCreativeModeTab.CSA_TAB)));
     public static final RegistryObject<Item> STEEL_LEGGINGS = ITEMS.register("steel_leggings",
@@ -95,7 +95,12 @@ public class ModItems {
             ()-> new ArmorItem(ModArmorMaterials.Titanium, EquipmentSlot.FEET,
                     new Item.Properties().tab(ModCreativeModeTab.CSA_TAB)));
 
-    
+    public static final RegistryObject<Item> TITANIUM_ALLOY_BOOTS = ITEMS.register("titanium_alloy_boots",
+            ()-> new ArmorItem(ModArmorMaterials.Titanium, EquipmentSlot.FEET,
+                    new Item.Properties().tab(ModCreativeModeTab.CSA_TAB)));
+
+
+
 
 
     public static void register(IEventBus eventBus){

@@ -21,8 +21,12 @@
   "item.csa_mod.steel_pickaxe": "Steel Pickaxe",
   "item.csa_mod.steel_axe": "Steel Axe",
   "item.csa_mod.steel_shovel": "Steel Shovel",
+  "item.csa_mod.steel_helmet": "Steel Helmet",
+  "item.csa_mod.steel_chestplate": "Steel Chestplate",
+  "item.csa_mod:steel_leggings": "Steel Leggings",
+  "item.csa_mod:steel_boots": "Steel Boots",
 
-  
+
   "block.csa_mod.titanium_ore": "Titanium Ore",
   "item.csa_mod.titanium": "Titanium",
   "block.csa_mod.titanium_block": "Titanium Block",
@@ -30,6 +34,10 @@
   "item.csa_mod.titanium_pickaxe": "Titanium Pickaxe",
   "item.csa_mod.titanium_axe": "Titanium Axe",
   "item.csa_mod.titanium_shovel": "Titanium Shovel",
+  "item.csa_mod.titanium_helmet": "Titanium Helmet",
+  "item.csa_mod:titanium_chestplate": "Titanium Chestplate",
+  "item.csa_mod:titanium_leggings": "Titanium Leggings",
+  "item.csa_mod:titanium_boots": "Titanium Boots",
 
 
   "item.csa_mod.titanium_alloy": "Titanium Alloy",
@@ -37,5 +45,12 @@
   "item.csa_mod.titanium_alloy_sword": "Titanium Alloy Sword",
   "item.csa_mod.titanium_alloy_pickaxe": "Titanium Alloy Pickaxe",
   "item.csa_mod.titanium_alloy_axe": "Titanium Alloy Axe",
-  "item.csa_mod.titanium_alloy_shovel": "Titanium Alloy Shovel"
+  "item.csa_mod.titanium_alloy_shovel": "Titanium Alloy Shovel",
+  "item.csa_mod.titanium_alloy_helmet": "Titanium Alloy Helmet",
+  "item.csa_mod.titanium_alloy_chestplate": "Titanium Alloy Chestplate",
+  "item.csa_mod.titanium_alloy_leggings": "Titanium Alloy Leggings",
+  "item.csa_mod.titanium_alloy_boots": "Titanium Alloy Boots",
+
+
+  "itemGroup.Csa Mod": "Csa Mod Tab"
 }
